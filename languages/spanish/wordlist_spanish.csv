@@ -236,8 +236,8 @@ buttons,,,Botones
 leds,,,LED
 scan_dwell_time,,,Tiempo de permanencia de escaneo
 battery_calibration,,,Calibración de batería
-low,,,low
-high,,,high
-dmr_id,,,DMR ID
-scan_on_boot,,,scan on boot
-dtmf_entry,,,DTMF entry
+low,,,bajo
+high,,,alto
+dmr_id,,,D M R   I D
+scan_on_boot,,,escaner al inicio
+dtmf_entry,,,entrada D T M F
