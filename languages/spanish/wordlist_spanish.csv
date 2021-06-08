@@ -72,9 +72,9 @@ PROMPT_ZONE_MODE,,,modo zona
 PROMPT_POWER_MODE,,,modo potencia
 PROMPT_COLORCODE_MODE,,,modo codigo color
 PROMPT_HERTZ,,,HERZIOS
-PROMPT_SETTINGS_UPDATE,,,Settings update
-PROMPT_STAR,,,Star
-PROMPT_HASH,,,Hash
+PROMPT_SETTINGS_UPDATE,,,Parámetros actualizados
+PROMPT_STAR,,,Asterisco
+PROMPT_HASH,,,Almuhadilla
 LANGUAGE_NAME,,,Español
 menu,,,Menú
 credits,,,Créditos
